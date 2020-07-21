@@ -1,7 +1,10 @@
 # emailLightningFlow
 
-Add a brief description of this project here, in Markdown format.
-It will be shown on the main page of the project's GitHub repository.
+by Alex Edelstein
+
+https://github.com/alexed1/LightningFlowComponents/tree/master/flow_action_components/SendHTMLEmail
+https://unofficialsf.com/send-rich-email-with-the-new-sendhtmlemail-action/
+
 
 ## Development
 
