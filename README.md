@@ -1,6 +1,8 @@
-# emailLightningFlow
-
+# Email Lightning Flow
+ 
 by Alex Edelstein
+
+Sends rich text and html emails through Salesforce's Lightning Flow.
 
 https://github.com/alexed1/LightningFlowComponents/tree/master/flow_action_components/SendHTMLEmail
 https://unofficialsf.com/send-rich-email-with-the-new-sendhtmlemail-action/
